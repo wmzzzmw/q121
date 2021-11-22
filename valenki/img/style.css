@@ -1,0 +1,175 @@
+#lmenu {
+        padding: 0;
+        margin: 0;
+        font-size: 14pt;
+        font-family: 'Bad Script', cursive;
+        }
+#lmenu li {
+        height: auto;
+        margin: 0;
+        padding: 2px;
+        width: 250px;
+        text-align: center;
+        /*Фон кнопки подменю*/
+        background: #5C795C url('http://www.valenki.ws/img/fonknopki.jpg') repeat-x 0 0;
+
+        font-size: 14pt;
+        font-family: 'Bad Script', cursive;
+
+        border-top: #77c102;
+        border-left: #77c102;
+        border-bottom: #000000;
+        border-right: #000000;
+        border-style: solid;
+        border-width: 2pt;
+         }
+#lmenu li a {
+        /*display: block;*/
+        /*font-family: 'Lobster', cursive;*/
+        /*font-family: 'Marck Script', cursive;*/
+        font-family: 'Bad Script', cursive;
+        font-style: normal;
+        font-size: 16pt;
+       /*width: 150px;*/
+        /*height: 33px;*/
+        color: #fff;
+        text-decoration: none;
+        }
+#lmenu li:hover ul, #menu li.jshover ul {
+        /*display: block;*/
+        }
+#lmenu li:hover, #menu li.jshover {
+        /*background: #424242;*/
+        }
+#menu {
+        padding: 0;
+        margin: 0;
+        font-size: 14pt;
+        /*font-family: Georgia;*/
+        /*font-family: 'Lobster', cursive;*/
+        /*font-family: 'Marck Script', cursive;*/
+        font-family: 'Bad Script', cursive;
+        }
+#menu li {
+        list-style: none;
+        float:left;
+        /*display:inline-block;*/
+        height: 36px;
+        padding: 0;
+        margin: 0;
+        width: 100px;
+        text-align: center;
+        /*background: #ECB6B6;*/
+        position: relative;
+        /*padding-top: 6px;*/
+        }
+#menu li ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        width: 150px;
+        display: none;
+        position: absolute;
+        left: 0;
+        top: 42px;
+        }
+#menu li ul li {
+        display:inline-block;
+        height: auto;
+        /*height: 60px;*/
+        margin: 0;
+        padding: 2px;
+        width: 250px;
+        text-align: center;
+        /*Фон кнопки подменю*/
+        background: #5C795C url('http://www.valenki.ws/img/fonknopki.jpg') repeat-x 0 0;
+
+        border-top: #77c102;
+        border-left: #77c102;
+        border-bottom: #000000;
+        border-right: #000000;
+        border-style: solid;
+        border-width: 2pt;
+        /*border-top:#fffaaa;
+        border-left:#fffaaa;
+        border-bottom:navy;
+        border-right:navy;
+        border-style:solid;
+        border-width:1.5pt;*/
+
+        /*background: #5C795C;*/
+        }
+#menu li a {
+        display: block;
+        /*font-family: 'Lobster', cursive;*/
+        /*font-family: 'Marck Script', cursive;*/
+        font-family: 'Bad Script', cursive;
+        font-style: normal;
+        font-size: 16pt;
+       /*width: 150px;*/
+        /*height: 33px;*/
+        color: #fff;
+        text-decoration: none;
+        }
+#menu li:hover ul, #menu li.jshover ul {
+        display: block;
+        }
+#menu li:hover, #menu li.jshover {
+        /*background: #424242;*/
+        }
+.z{
+	filter:Shadow(Color=#006666, Direction=135);
+	text-shadow: #006666 2px 2px 4px;
+	width:100%;
+	font-family: 'Bad Script', cursive;
+        font-style: normal;
+        font-size: 30pt;
+	color:#228855;
+	text-align:center
+}
+.ktm{
+	filter:Shadow(Color=#006666, Direction=135);
+	text-shadow: #006666 2px 2px 4px;
+	width:150%;
+	font-family: 'Lobster', cursive;
+        font-style: normal;
+        font-size: 60pt;
+	color:white;
+	/*#228855;*/
+	text-align: left;
+	margin: -50px;
+}
+.diler{
+	font-family: 'Bad Script', cursive;
+	font-size: 16pt;
+	text-shadow: #006666 2px 2px 6px;
+	/*font-weight: bold;*/
+	color:#228855;
+	text-align:center;
+	margin: -18px;
+}
+.krt{
+	font-size: 16pt;
+	margin-left: 20px;
+}
+.b{font-family: wingdings; font-size: 12pt; color: navy; width:20;}
+.td {background:#E9BE97; cursor:hand;border-top:#fffaaa;border-left:#fffaaa; border-bottom:navy;border-right:navy;border-style:solid; border-width:1.5pt}
+.tds {width:50%; background:#006666; cursor:hand;border-top:#fffaaa;border-left:#fffaaa; border-bottom:navy;border-right:navy;border-style:solid; border-width:1.5pt}
+.tdd {background:#E9BE97; cursor:hand;border-top:navy;border-left:navy; border-bottom:#fffaaa;border-right:#fffaaa;border-style:solid; border-width:1.5pt}
+.spanstyle {position:absolute; visibility:visible; top:-50px; font-size: 8pt; font-family: verdana; font-weight: bold; color:'#008000';}
+.tdr {text-align:right}
+.tdl {text-align:left}
+.tdr {text-align:right; white-space:1}
+table {bordercolor: #FFFFFF; bgcolor:#CCCCCC}
+p {align:center; FONT-SIZE: 14px}
+font {color:navy; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 14px; FONT-WEIGHT: bold}
+BODY {COLOR: navy; font-family: Verdana,Geneva,Helvetica, cursive; FONT-SIZE: 14px; FONT-WEIGHT: bold; scrollbar-face-color: #E9BE97; scrollbar-shadow-color: navy; scrollbar-highlight-color: #fffaaa; scrollbar-3dlight-color: #101512; scrollbar-darkshadow-color: #1b2727; scrollbar-track-color: ##fffaaa; scrollbar-arrow-color: #fffddf; overflow-x:auto; overflow-y:auto}
+A:link {COLOR: navy; TEXT-DECORATION: underline; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold}
+A:visited {COLOR: #4400BB; TEXT-DECORATION: underline; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold}
+A:hover {COLOR: #338833; TEXT-DECORATION: none; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 16px; FONT-WEIGHT: bold}
+.A:link {COLOR: navy; TEXT-DECORATION: none; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 14px;}
+.A:visited {COLOR: #4400BB; TEXT-DECORATION: none; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 14px}
+.A:hover {COLOR: navy; TEXT-DECORATION: none; FONT-FAMILY: Verdana,Geneva,Helvetica; FONT-SIZE: 14px}
+td {text-align:center}
+tr {mso-height-source:auto;}
+col {mso-width-source:auto;}

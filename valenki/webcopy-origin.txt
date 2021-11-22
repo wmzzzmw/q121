@@ -1,0 +1,336 @@
+Uri: http://valenki.ws/
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\index.htm
+Content Type: text/html
+
+Uri: http://fonts.googleapis.com/css?family=Lobster&subset=cyrillic,latin
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\css.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Bad+Script&subset=cyrillic
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\css-1.css
+Content Type: text/css
+
+Uri: http://valenki.ws/img/style.css
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\style.css
+Content Type: text/css
+
+Uri: http://valenki.ws/price/sherst.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\sherst.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/dilerbaltex.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\dilerbaltex.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanivetr.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanivetr.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanikurt.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanikurt.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanipodkl.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanipodkl.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanirukz.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanirukz.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanispec.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanispec.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanitehn.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanitehn.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/tkanived.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\tkanived.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/rti.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\rti.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/shlang.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/bentonit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\bentonit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/gernit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/voilokgrubizol.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\voilokgrubizol.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/voilok.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\voilok.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/potrebnosti.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\potrebnosti.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/contacts.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\contacts.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki/rfe.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\rfe.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/map.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\map.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/fullprice.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\fullprice.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/price.zip
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\price.zip
+Content Type: application/zip
+
+Uri: http://valenki.ws/price/valenki/bvalenkicp.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\bvalenkicp.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki/bvalenkis.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\bvalenkis.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki/sert2014.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\sert2014.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki/bsan.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\bsan.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki/bgig.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki\bgig.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/valenki.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\valenki.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/kortkani.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\kortkani.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/sound.js
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sound.js
+Content Type: application/javascript
+
+Uri: http://valenki.ws/img/svalenkicp.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\svalenkicp.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/svalenkis.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\svalenkis.jpg
+Content Type: image/jpeg
+
+Uri: http://top-fwz1.mail.ru/counter?id=101677;t=222;l=1
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\counter.gif
+Content Type: image/gif
+
+Uri: http://valenki.ws/price/sherst/bsherst.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\sherst\bsherst.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/ssherst.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\ssherst.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/price/shlang/bshlang18.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\bshlang18.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/shlang/bshlang18_25.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\bshlang18_25.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/shlang/bshlang25_25.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\bshlang25_25.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/sshlang18.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sshlang18.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/sshlang18_25.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sshlang18_25.png
+Content Type: image/png
+
+Uri: http://valenki.ws/img/sshlang25_25.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sshlang25_25.png
+Content Type: image/png
+
+Uri: http://valenki.ws/price/bentonit/bbentonit.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\bentonit\bbentonit.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/voilokgrubizol/bvoilok.jpg.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\voilokgrubizol\bvoilok.jpg.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/svoilok.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\svoilok.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/pvoilok.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\pvoilok.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/rfe.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\rfe.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/bvalenkicp.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bvalenkicp.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/bvalenkis.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bvalenkis.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/sert2014.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sert2014.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/bsan.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bsan.png
+Content Type: image/png
+
+Uri: http://valenki.ws/img/bgig.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bgig.png
+Content Type: image/png
+
+Uri: https://top.mail.ru/Rating/Industry-Light/Today/Visitors/13.html?from=jumpfrom
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\Rating\Industry-Light\Today\Visitors\13.html
+Content Type: text/html
+
+Uri: http://top-fwz1.mail.ru/counter2?id=101677;js=na
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\counter2.gif
+Content Type: image/gif
+
+Uri: http://valenki.ws/img/fonknopki.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\fonknopki.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/bsherst.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bsherst.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/sertbaltex.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sertbaltex.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/price/shlang/shlang.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\shlang.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/shlang/bentonit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\bentonit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/shlang/gernit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\shlang\gernit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/bshlang18.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bshlang18.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/bshlang18_25.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bshlang18_25.png
+Content Type: image/png
+
+Uri: http://valenki.ws/img/bshlang25_25.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bshlang25_25.png
+Content Type: image/png
+
+Uri: http://valenki.ws/price/bentonit/shlang.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\bentonit\shlang.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/bentonit/bentonit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\bentonit\bentonit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/bentonit/gernit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\bentonit\gernit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/bbentonit.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bbentonit.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/img/sbentonit.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sbentonit.jpg
+Content Type: image/jpeg
+
+Uri: http://valenki.ws/price/gernit/bgernit.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit\bgernit.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/gernit/shlang.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit\shlang.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/gernit/bentonit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit\bentonit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/gernit/gernit.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit\gernit.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/bgernit.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bgernit.png
+Content Type: image/png
+
+Uri: http://valenki.ws/price/gernit/bgernit_bp.png.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\gernit\bgernit_bp.png.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/bgernit_bp.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bgernit_bp.png
+Content Type: image/png
+
+Uri: http://valenki.ws/img/sgernit.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sgernit.png
+Content Type: image/png
+
+Uri: http://valenki.ws/img/sgernit_bp.png
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\sgernit_bp.png
+Content Type: image/png
+
+Uri: http://valenki.ws/price/voilokgrubizol/voilok.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\voilokgrubizol\voilok.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/price/voilokgrubizol/voilokgrubizol.htm
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\price\voilokgrubizol\voilokgrubizol.htm
+Content Type: text/html
+
+Uri: http://valenki.ws/img/bvoilok.jpg
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\img\bvoilok.jpg
+Content Type: image/jpeg
+
+Uri: https://api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru_RU
+File Name: C:\Users\wzw\Documents\сайты\valenki.ws\2.0-stable\index.htm
+Content Type: text/javascript
+
